@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+      "id": "e59b",
+      "rollNumber": "1",
+      "name": "Shankar",
+      "email": "shankarmerugu14@gmail.com",
+      "phoneNumber": "9381553186",
+      "checkinTime": "10:27:02 AM",
+      "checkoutTime": "10:27:07 AM",
+      "checkinDate": "8/16/2024",
+      "checkoutDate": "8/16/2024"
+    }
+  ]
+}
